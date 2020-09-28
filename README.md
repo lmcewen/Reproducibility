@@ -1,4 +1,7 @@
 # Reproducibility
 
-September 27, 2020
+Created: September 27, 2020
 
+### Description
+
+Generating a standardized reproducibility workflow 
