@@ -3,9 +3,9 @@ title: "Analytical Workflow"
 author: "Lisa M. McEwen, PhD."
 date: "27/09/2020"
 output:
-  pdf_document: default
-  html_document: default
   word_document: default
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
