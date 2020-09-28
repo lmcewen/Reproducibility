@@ -18,5 +18,6 @@ bash code for initiating git commands:
 - ls -al ~/.ssh
 - git status
 - git add . 
+- git commit -m "description of your update"
 - git push 
 - git pull
