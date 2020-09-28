@@ -10,7 +10,7 @@ Generating a standardized reproducibility workflow with templates for analytical
 
 bash code for initiating git commands:
 
-- navigate to folder that hosts repository
+- navigate to folder that hosts repository using cd or cd.. and pwd to print your working directory
 - git config --global user.name 'yourusername'
 - git config --global user.email 'youremail'
 - git config --global --list
