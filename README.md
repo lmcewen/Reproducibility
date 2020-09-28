@@ -14,7 +14,7 @@ bash code for initiating git commands:
 - git config --global user.name 'yourusername'
 - git config --global user.email 'youremail'
 - git config --global --list
-- git clone https://github.com/lmcewen/Reproducibility.git
+- git clone 'pathtoGitrepository'
 - ls -al ~/.ssh
 - git status
 - git add . 
