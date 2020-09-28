@@ -2,6 +2,8 @@
 
 Created: September 27, 2020
 
-### Description
+## Description
 
-Generating a standardized reproducibility workflow for analytical projects
+Generating a standardized reproducibility workflow with templates for analytical projects
+
+Git/Github usage:
